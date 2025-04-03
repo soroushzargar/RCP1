@@ -1,0 +1,5 @@
+seaborn==0.13.2
+ml-collections==0.1.1
+statsmodels
+cvxpy==1.5.0
+sacred

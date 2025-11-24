@@ -2,7 +2,7 @@
 
 Implementation for the paper “**One Sample is Enough to Make Conformal Prediction Robust**” (link to paper: (https://openreview.net/forum?id=h5NsMrUK4g&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DNeurIPS.cc%2F2025%2FConference%2FAuthors%23your-submissions))).  
 Please cite the paper if you use this code:  
-> [Zargarbashi, S. H., Akhondzadeh, M. S., & Bojchevski, A. (2025). *One Sample is Enough to Make Conformal Prediction Robust*. arXiv:2506.16553. :contentReference[oaicite:0]{index=0}](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=XnPiy-YAAAAJ&citation_for_view=XnPiy-YAAAAJ:YsMSGLbcyi4C)
+> [Zargarbashi, S. H., Akhondzadeh, M. S., & Bojchevski, A. (2025). *One Sample is Enough to Make Conformal Prediction Robust*. arXiv:2506.16553
 
 ---
 

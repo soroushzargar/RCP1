@@ -3,7 +3,7 @@
 Implementation of **RCP1 — Robust Conformal Prediction with One Sample**, from the paper:
 
 **“One Sample is Enough to Make Conformal Prediction Robust”**
-*Link to paper: `[[link]](https://openreview.net/forum?id=h5NsMrUK4g&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DNeurIPS.cc%2F2025%2FConference%2FAuthors%23your-submissions))`*
+*Link to paper: https://openreview.net/forum?id=h5NsMrUK4g&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DNeurIPS.cc%2F2025%2FConference%2FAuthors%23your-submissions
 
 If you use this repository in research or applications, please cite the paper:
 

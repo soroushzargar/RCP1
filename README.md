@@ -3,7 +3,7 @@
 Implementation of **RCP1 — Robust Conformal Prediction with One Sample**, from the paper:
 
 **“One Sample is Enough to Make Conformal Prediction Robust”**
-*Link to paper: `[[PLACEHOLDER]](https://openreview.net/forum?id=h5NsMrUK4g&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DNeurIPS.cc%2F2025%2FConference%2FAuthors%23your-submissions))`*
+*Link to paper: `[[link]](https://openreview.net/forum?id=h5NsMrUK4g&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DNeurIPS.cc%2F2025%2FConference%2FAuthors%23your-submissions))`*
 
 If you use this repository in research or applications, please cite the paper:
 
@@ -15,6 +15,10 @@ If you use this repository in research or applications, please cite the paper:
   year={2025}
 }
 ```
+
+You can find a comprehensive introduction to robust informal prediction in the following link: https://youtu.be/e8pnKvCCq7Y?si=8nt8JFXc9RQh0imv
+
+**Note that** While the name of the package in the repository is exactly identical to the prior work "BinCP" this repository also includes the results of RCP1. 
 
 ---
 
